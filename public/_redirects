@@ -1,0 +1,2 @@
+# Netlify redirects — fallback root redirect to Arabic
+/   /ar   302
